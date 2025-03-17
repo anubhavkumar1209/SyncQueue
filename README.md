@@ -8,15 +8,14 @@ SyncQueue is a simple yet essential Producer-Consumer implementation in Java usi
 ✅ Demonstrates Producer-Consumer Problem using a shared resource.
 
 📌 Usage
-# Clone the repository
-git clone https://github.com/anubhavkumar1209/SyncQueue.git
+### Setup
 
-# Navigate to the project folder
-cd SyncQueue
+1. Clone this repository to your local machine:
 
-# Compile the Java files
-javac Main.java
+   ```sh
+   git clone https://github.com/anubhavkumar1209/SyncQueue.git
+  
+2. Compile and run the application
+3. Follow the on-screen menu options to use the system.
 
-# Run the program
-java Main
 
