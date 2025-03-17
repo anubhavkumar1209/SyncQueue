@@ -15,7 +15,4 @@ SyncQueue is a simple yet essential Producer-Consumer implementation in Java usi
    ```sh
    git clone https://github.com/anubhavkumar1209/SyncQueue.git
   
-2. Compile and run the application
-3. Follow the on-screen menu options to use the system.
-
-
+2. Compile and run the application.
